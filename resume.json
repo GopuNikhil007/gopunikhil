@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "GOPU NIKHIL",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/15po42u4NhLEN3QgJePLSvYTL1o_VVmOu/view?usp=sharing ",
+		"email": "gopunikhil001@gmail.com",
+		"phone": "8186838735",
+		"summary": " i am good at c language and others",
+		"location": {
+			"address": "Perkapally village, Dasturabad Mandal,Nirmal District,Telangana State,.",
+			"postalCode": "504202",
+			"city": "Nirmal",
+			"countryCode": "India",
+			"region": "Telangana"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "GopuNikhil1",
+				"url": "https://twitter.com/GopuNikhil1"
+			},
+			{
+				"network": "Github",
+				"username": "GopuNikhil007",
+				"url": "https://github.com/GopuNikhil007"
+			},
+			{
+				"network": "linkedin",
+				"username": "Nikhil Gopu",
+				"url": "https://www.linkedin.com/in/nikhil-gopu-008a87181/"
+			},
+			{
+				"network": "Instagram",
+				"username": "nikhil.gopu.143",
+				"url": "https://www.instagram.com/nikhil.gopu.143/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Kota",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-04-08 //Date",
+		"endDate": "2023-01-06",
+		"gpa": "5.8",
+		"courses": [
+			"Computer Science and Engineering "
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Carroms", "Badminton","Volleyball"]
+	}]
+}
